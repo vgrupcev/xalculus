@@ -2,6 +2,6 @@
 \BOOKMARK [1][-]{section*.2}{Create a course repository locally on your computer from Github app}{}% 2
 \BOOKMARK [1][-]{section*.3}{Create ``preamble.tex" and ``main.tex" \(need it in every repository\)}{}% 3
 \BOOKMARK [1][-]{section*.4}{Back to app}{}% 4
-\BOOKMARK [1][-]{section*.5}{****whenever a change is made to the .tex file we need to push to the repository}{}% 5
+\BOOKMARK [2][-]{subsection*.5}{whenever a change is made to the .tex file we need to push to the repository}{section*.4}% 5
 \BOOKMARK [1][-]{section*.6}{From terminal: \(inside repository\)}{}% 6
 \BOOKMARK [1][-]{section*.7}{if everything went well: https://ximera.osu.edu/nameOfCourse exists!!!}{}% 7
