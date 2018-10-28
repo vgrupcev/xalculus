@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 OCT 2018 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 OCT 2018 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1018,10 +1018,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
 ### simple group (level 1) entered at line 103 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 29109 strings out of 492995
- 681999 string characters out of 6132704
- 854283 words of memory out of 5000000
- 32122 multiletter control sequences out of 15000+600000
+ 29108 strings out of 492995
+ 681992 string characters out of 6132704
+ 854263 words of memory out of 5000000
+ 32121 multiletter control sequences out of 15000+600000
  10683 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,98p,769b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
