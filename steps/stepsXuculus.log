@@ -1,19 +1,12 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.5.23)  28 OCT 2018 15:43
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:46
->>>>>>> 055cd1a1547535937be4e7620dd2defcee563c65
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**xalculusMain.tex
-(./xalculusMain.tex
+**stepsXuculus.tex
+(./stepsXuculus.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/Users/marianhernandezviera/Library/texmf/tex/latex/ximeraLatex/xourse.cls
-Document Class: xourse 2018/10/17 v1.00 Combining Ximera activities into Xourse
-s
 (/Users/marianhernandezviera/Library/texmf/tex/latex/ximeraLatex/ximera.cls
 Document Class: ximera 2018/10/17 v1.00 Simultaneously write print and online i
 nteractive materials
@@ -897,7 +890,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip61
 )
 \outcomefile=\write6
-\openout6 = `xalculusMain.oc'.
+\openout6 = `stepsXuculus.oc'.
 
 \c@theorem=\count160
 \c@algorithm=\count161
@@ -931,29 +924,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@titlenumber=\count189
 \c@sectiontitlenumber=\count190
 \idfile=\write7
-\openout7 = `xalculusMain.ids'.
+\openout7 = `stepsXuculus.ids'.
 
 \myfile=\write8
-\openout8 = `xalculusMain.jax'.
+\openout8 = `stepsXuculus.jax'.
 
-))
-(./preamble.tex) (./xalculusMain.aux)
-\openout1 = `xalculusMain.aux'.
+)
+(./stepsXuculus.aux)
+\openout1 = `stepsXuculus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -973,76 +966,58 @@ LaTeX Font Info:    ... okay on input line 9.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 9.
+ on input line 5.
 
 \c@lstlisting=\count197
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 9.
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
-(./xalculusMain.out) (./xalculusMain.out)
+Package hyperref Info: Link coloring ON on input line 5.
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+(./stepsXuculus.out) (./stepsXuculus.out)
 \@outlinefile=\write9
-\openout9 = `xalculusMain.out'.
+\openout9 = `stepsXuculus.out'.
 
- [1
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
-\tf@toc=\write10
-\openout10 = `xalculusMain.toc'.
+LaTeX Warning: No \author given.
 
-[2
+<images/x1.jpg, id=9, 3088.53876pt x 2201.22375pt>
+File: images/x1.jpg Graphic file (type jpg)
+<use images/x1.jpg>
+Package pdftex.def Info: images/x1.jpg  used on input line 16.
+(pdftex.def)             Requested size: 308.87196pt x 220.13527pt.
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] (./steps/stepsXuculus.tex
-
-./steps/stepsXuculus.tex:16: LaTeX Error: File `images/x1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \includegraphics[scale=.1]{images/x1}
-                                          
-? 
-
-./steps/stepsXuculus.tex:28: LaTeX Error: File `images/main' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \includegraphics[scale=.07]{images/main}
-                                             
-? 
-
-./steps/stepsXuculus.tex:37: LaTeX Error: File `images/x2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \includegraphics[scale=.09]{images/x2}
-                                           
-? 
-
-./steps/stepsXuculus.tex:41: LaTeX Error: File `images/x3' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \includegraphics[scale=.09]{images/x3}
-                                           
-? 
-[3
-
-
-]
+ <./images/x1.jpg>]
+<images/main.jpg, id=26, 3755.02875pt x 1902.10625pt>
+File: images/main.jpg Graphic file (type jpg)
+<use images/main.jpg>
+Package pdftex.def Info: images/main.jpg  used on input line 28.
+(pdftex.def)             Requested size: 262.87888pt x 133.16104pt.
+<images/x2.jpg, id=27, 2472.23625pt x 1780.6525pt>
+File: images/x2.jpg Graphic file (type jpg)
+<use images/x2.jpg>
+Package pdftex.def Info: images/x2.jpg  used on input line 37.
+(pdftex.def)             Requested size: 222.49167pt x 160.2518pt.
+<images/x3.jpg, id=28, 1974.37625pt x 1414.28375pt>
+File: images/x3.jpg Graphic file (type jpg)
+<use images/x3.jpg>
+Package pdftex.def Info: images/x3.jpg  used on input line 41.
+(pdftex.def)             Requested size: 177.68619pt x 127.28004pt.
+ [2 <./images/main.jpg> <./images/x2.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1059,66 +1034,40 @@ Overfull \hbox (97.86938pt too wide) in paragraph at lines 62--62
 rse
  []
 
-) [4] (./Activity1/Activity1.tex
-\c@depthICount=\count198
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) [5
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
-
-(./xalculusMain.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
+[3 <./images/x3.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+ (./stepsXuculus.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 
 
-Package rerunfilecheck Warning: File `xalculusMain.out' has changed.
+Package rerunfilecheck Warning: File `stepsXuculus.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `xalculusMain.out':
+Package rerunfilecheck Info: Checksums for `stepsXuculus.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  09F446D8A4B6D05E39A767DE600D4299;677.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
+(rerunfilecheck)             After:  A6E9BA3CFE851EC3C7E8C399ADACA58A;626.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 34496 strings out of 492996
- 763930 string characters out of 6132730
- 1083204 words of memory out of 5000000
- 37298 multiletter control sequences out of 15000+600000
- 3834 words of font info for 16 fonts, out of 8000000 for 9000
-=======
- 29455 strings out of 492649
- 689888 string characters out of 6129622
- 857970 words of memory out of 5000000
- 32737 multiletter control sequences out of 15000+600000
- 10997 words of font info for 41 fonts, out of 8000000 for 9000
->>>>>>> 055cd1a1547535937be4e7620dd2defcee563c65
+ 29408 strings out of 492649
+ 689403 string characters out of 6129622
+ 856381 words of memory out of 5000000
+ 32723 multiletter control sequences out of 15000+600000
+ 10980 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,100p,741b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,8n,98p,740b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pf
-b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on xalculusMain.pdf (5 pages, 100780 bytes).
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on stepsXuculus.pdf (3 pages, 3114092 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

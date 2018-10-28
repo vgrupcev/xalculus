@@ -1,1 +1,9 @@
+\contentsline {section}{\textbf {1\hspace {1em}Steps to create a course Shell }}{3}{section*.1}
+\contentsline {section}{Create a course repository locally on your computer from Github app}{3}{section*.2}
+\contentsline {section}{Create ``preamble.tex" and ``main.tex" (need it in every repository)}{3}{section*.3}
+\contentsline {section}{Back to app}{3}{section*.4}
+\contentsline {subsection}{whenever a change is made to the .tex file we need to push to the repository}{4}{subsection*.5}
+\contentsline {section}{From terminal: (inside repository)}{4}{section*.6}
+\contentsline {section}{if everything went well: https://ximera.osu.edu/nameOfCourse exists!!!}{4}{section*.7}
+\contentsline {section}{\textbf {2\hspace {1em}Activity 1 }}{5}{section*.8}
 \contentsfinish 
