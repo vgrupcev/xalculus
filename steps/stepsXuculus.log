@@ -1,58 +1,13 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:38
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 OCT 2018 15:21
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:21
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.5.23)  28 OCT 2018 15:01
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:07
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 OCT 2018 14:54
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 14:59
->>>>>>> 1f0b6c95942603a8ef6047c95ccf9a5e8a8e6bdc
->>>>>>> 789eef28251e4f3b1518172f2ae1cd00e247360f
->>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **stepsXuculus.tex
 (./stepsXuculus.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cls
-=======
-<<<<<<< HEAD
-**stepsXuculus.tex
-(./stepsXuculus.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/Users/marianhernandezviera/Library/texmf/tex/latex/ximeraLatex/ximera.cls
-<<<<<<< HEAD
-=======
-=======
-**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
-de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
-{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
-documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
- tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ximera,charset=utf-8,-css.a
-.b.c.\input  stepsXuculus.tex
-(./stepsXuculus.tex (/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cls
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Document Class: ximera 2018/10/17 v1.00 Simultaneously write print and online i
 nteractive materials
 
@@ -127,34 +82,11 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-=======
-<<<<<<< HEAD
-Package xcolor Info: Driver file: pdftex.def on input line 225.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
-<<<<<<< HEAD
-=======
-=======
-Package xcolor Info: Driver file: dvips.def on input line 225.
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/colortbl/colortbl.sty
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
@@ -257,15 +189,6 @@ File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
 ef
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
@@ -275,20 +198,6 @@ df.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-<<<<<<< HEAD
-=======
-=======
-(/Users/vg/Library/texmf/tex/latex/ximeraLatex/pgfsys-tex4ht.def
-File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count94
@@ -307,24 +216,6 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@dimen=\dimen124
 \pgfmath@count=\count96
 \pgfmath@box=\box31
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-<<<<<<< HEAD
-\pgfmath@dimen=\dimen124
-\pgfmath@count=\count96
-\pgfmath@box=\box29
-=======
-\pgfmath@dimen=\dimen126
-\pgfmath@count=\count99
-\pgfmath@box=\box30
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
@@ -349,17 +240,6 @@ code.tex)
 erarithmetics.code.tex)))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count97
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-<<<<<<< HEAD
-\c@pgfmathroundto@lastzeros=\count97
-=======
-\c@pgfmathroundto@lastzeros=\count100
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -379,10 +259,6 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen137
 \pgf@zy=\dimen138
 )
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
@@ -398,34 +274,12 @@ File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-\pgfpic=\box30
-\pgf@hbox=\box31
-\pgf@layerbox@main=\box32
-\pgf@picture@serial@count=\count98
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \pgfpic=\box32
 \pgf@hbox=\box33
 \pgf@layerbox@main=\box34
 \pgf@picture@serial@count=\count98
-<<<<<<< HEAD
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-=======
-=======
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count101
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen143
@@ -467,19 +321,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-<<<<<<< HEAD
 \pgfexternal@startupbox=\box35
-=======
-<<<<<<< HEAD
-\pgfexternal@startupbox=\box33
-=======
-<<<<<<< HEAD
-\pgfexternal@startupbox=\box35
-=======
-\pgfexternal@startupbox=\box34
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -496,19 +338,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-<<<<<<< HEAD
 \pgfnodeparttextbox=\box36
-=======
-<<<<<<< HEAD
-\pgfnodeparttextbox=\box34
-=======
-<<<<<<< HEAD
-\pgfnodeparttextbox=\box36
-=======
-\pgfnodeparttextbox=\box35
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -535,19 +365,6 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen151
 \pgffor@skip=\dimen152
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-<<<<<<< HEAD
-\pgffor@iter=\dimen151
-\pgffor@skip=\dimen152
-=======
-\pgffor@iter=\dimen153
-\pgffor@skip=\dimen154
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
@@ -567,27 +384,16 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@lastysaved=\dimen157
 \tikzleveldistance=\dimen158
 \tikzsiblingdistance=\dimen159
-<<<<<<< HEAD
 \tikz@figbox=\box37
 \tikz@figbox@bg=\box38
 \tikz@tempbox=\box39
 \tikz@tempbox@bg=\box40
-=======
-\tikz@figbox=\box35
-\tikz@figbox@bg=\box36
-\tikz@tempbox=\box37
-\tikz@tempbox@bg=\box38
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \tikztreelevel=\count101
 \tikznumberofchildren=\count102
 \tikznumberofcurrentchild=\count103
 \tikz@fig@count=\count104
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count105
@@ -627,22 +433,10 @@ soldpgfsupp_pgflibraryfpu.code.tex)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
 soldpgfsupp_pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count111
-=======
-<<<<<<< HEAD
-\c@pgfmathroundto@lastzeros=\count111
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
 soldpgfsupp_leq.code.tex))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
-<<<<<<< HEAD
-=======
-=======
-\c@pgfmathroundto@lastzeros=\count114
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 .tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 liststructure.code.tex)
@@ -671,24 +465,9 @@ ta.code.tex))
 s.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count114
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
-.surfshading.pgfsys-pdftex.def)))
-=======
-<<<<<<< HEAD
-\c@pgfplotslibrarysurf@no=\count114
-
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
 .surfshading.pgfsys-pdftex.def)))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
-<<<<<<< HEAD
-=======
-=======
-\c@pgfplotslibrarysurf@no=\count117
-))
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 code.tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
 e.tex))
@@ -725,25 +504,9 @@ s.code.tex
 \pgfdecorationsegmentamplitude=\dimen166
 \pgfdecorationsegmentlength=\dimen167
 )
-<<<<<<< HEAD
 \tikz@lib@dec@box=\box41
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-=======
-<<<<<<< HEAD
-\tikz@lib@dec@box=\box39
-=======
-<<<<<<< HEAD
-\tikz@lib@dec@box=\box41
-)
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-=======
-\tikz@lib@dec@box=\box40
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 s/tikzlibrarydecorations.pathmorphing.code.tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
 brarydecorations.pathmorphing.code.tex))
@@ -759,10 +522,6 @@ brarydecorations.pathreplacing.code.tex))
 \pgfplots@zmin@reg=\dimen172
 \pgfplots@zmax@reg=\dimen173
 )
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
@@ -788,27 +547,9 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 <2008/02/07> (tvz)
 \FV@CodeLineNo=\count120
 \FV@InFile=\read2
-<<<<<<< HEAD
 \FV@TabBox=\box42
 \c@FancyVerbLine=\count121
 \FV@StepNumber=\count122
-=======
-<<<<<<< HEAD
-\FV@TabBox=\box40
-\c@FancyVerbLine=\count121
-\FV@StepNumber=\count122
-=======
-<<<<<<< HEAD
-\FV@TabBox=\box42
-\c@FancyVerbLine=\count121
-\FV@StepNumber=\count122
-=======
-\FV@TabBox=\box41
-\c@FancyVerbLine=\count124
-\FV@StepNumber=\count125
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \FV@OutFile=\write4
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/forloop/forloop.sty
@@ -866,27 +607,9 @@ LaTeX Info: Redefining \overline on input line 375.
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-<<<<<<< HEAD
 \Mathstrutbox@=\box43
 \strutbox@=\box44
 \big@size=\dimen176
-=======
-<<<<<<< HEAD
-\Mathstrutbox@=\box41
-\strutbox@=\box42
-\big@size=\dimen176
-=======
-<<<<<<< HEAD
-\Mathstrutbox@=\box43
-\strutbox@=\box44
-\big@size=\dimen176
-=======
-\Mathstrutbox@=\box42
-\strutbox@=\box43
-\big@size=\dimen178
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count128
@@ -933,24 +656,6 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count136
 \calc@Adimen=\dimen183
 \calc@Bdimen=\dimen184
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-<<<<<<< HEAD
-\calc@Acount=\count135
-\calc@Bcount=\count136
-\calc@Adimen=\dimen183
-\calc@Bdimen=\dimen184
-=======
-\calc@Acount=\count138
-\calc@Bcount=\count139
-\calc@Adimen=\dimen185
-\calc@Bdimen=\dimen186
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
@@ -976,19 +681,6 @@ File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count140
 \lst@gtempboxa=\box45
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
-<<<<<<< HEAD
-\lst@mode=\count140
-\lst@gtempboxa=\box43
-=======
-\lst@mode=\count143
-\lst@gtempboxa=\box44
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \lst@token=\toks50
 \lst@length=\count141
 \lst@currlwidth=\dimen185
@@ -1000,31 +692,11 @@ File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 \lst@lineno=\count145
 \lst@maxwidth=\dimen188
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count146
 \lst@skipnumbers=\count147
 \lst@framebox=\box46
-<<<<<<< HEAD
-=======
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-<<<<<<< HEAD
-\c@lstnumber=\count146
-\lst@skipnumbers=\count147
-\lst@framebox=\box44
-=======
-\c@lstnumber=\count149
-\lst@skipnumbers=\count150
-\lst@framebox=\box45
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -1052,15 +724,6 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
@@ -1071,13 +734,6 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
@@ -1121,28 +777,11 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package pdftexcmds Info: \pdfdraftmode found.
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-<<<<<<< HEAD
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-=======
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
@@ -1154,21 +793,7 @@ e
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-=======
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzl
-ibraryexternal.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzexternalshared.code.tex))
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
@@ -1222,13 +847,6 @@ Now handling font encoding PD1 ...
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4374.
-=======
-<<<<<<< HEAD
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4383.
 Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
 Package hyperref Info: Hyper figures OFF on input line 4509.
@@ -1314,108 +932,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (./stepsXuculus.aux)
 \openout1 = `stepsXuculus.aux'.
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count153
-LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen190
-\Fld@menulength=\count154
-\Field@Width=\dimen191
-\Fld@charsize=\dimen192
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring ON on input line 6376.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
-<<<<<<< HEAD
-\Hy@abspage=\count155
-\c@Item=\count156
-\c@Hfootnote=\count157
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count158
-\c@bookmark@seq@number=\count159
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip61
-)
-\outcomefile=\write6
-\openout6 = `stepsXuculus.oc'.
-
-\c@theorem=\count160
-\c@algorithm=\count161
-\c@axiom=\count162
-\c@claim=\count163
-\c@conclusion=\count164
-\c@condition=\count165
-\c@conjecture=\count166
-\c@corollary=\count167
-\c@criterion=\count168
-\c@definition=\count169
-\c@example=\count170
-\c@fact=\count171
-\c@lemma=\count172
-\c@formula=\count173
-\c@idea=\count174
-\c@notation=\count175
-\c@model=\count176
-\c@observation=\count177
-\c@proposition=\count178
-\c@paradox=\count179
-\c@procedure=\count180
-\c@remark=\count181
-\c@summary=\count182
-\c@template=\count183
-\c@warning=\count184
-\c@Iteration@probCnt=\count185
-\c@problem=\count186
-\c@problem@Depth=\count187
-\c@hintLevel=\count188
-\c@titlenumber=\count189
-\c@sectiontitlenumber=\count190
-\idfile=\write7
-\openout7 = `stepsXuculus.ids'.
-
-\myfile=\write8
-\openout8 = `stepsXuculus.jax'.
-
-)
-(../preamble.tex) (./stepsXuculus.aux)
-\openout1 = `stepsXuculus.aux'.
-=======
-\Hy@abspage=\count158
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
-
-
-Package hyperref Message: Stopped early.
-
-)
-
-Package hyperref Message: Driver: htex4ht.
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -1432,19 +948,11 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count191
 \scratchdimen=\dimen193
 \scratchbox=\box47
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count191
-\scratchdimen=\dimen193
-\scratchbox=\box45
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 \nofMPsegments=\count192
 \nofMParguments=\count193
 \everyMPshowfont=\toks53
@@ -1456,20 +964,12 @@ LaTeX Font Info:    ... okay on input line 5.
 ) ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-<<<<<<< HEAD
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
-=======
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 your preamble.
  on input line 5.
 
 \c@lstlisting=\count197
-<<<<<<< HEAD
 \AtBeginShipoutBox=\box48
-=======
-\AtBeginShipoutBox=\box46
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 Package hyperref Info: Link coloring ON on input line 5.
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
@@ -1480,246 +980,44 @@ LaTeX Info: Redefining \nameref on input line 5.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Warning: No \author given.
 
-<images/x1.jpg, id=9, 3088.53876pt x 2201.22375pt>
+<images/x1.jpg, id=37, 3088.53876pt x 2201.22375pt>
 File: images/x1.jpg Graphic file (type jpg)
 <use images/x1.jpg>
 Package pdftex.def Info: images/x1.jpg  used on input line 15.
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-<<<<<<< HEAD
-LaTeX Warning: No \author given.
-=======
-<<<<<<< HEAD
-=======
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: Envir
-onment html undefined in `ximera.cfg'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.51 \Configure
-               {@HEAD}{\HCode{<meta name="author" content="}\@author\HCode{"...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-\c@identification=\count193
-
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:69: LaTeX Error: Envir
-onment xarmaBoost undefined in `ximera.cfg'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 ...figureQuestionEnv{xarmaBoost}{xarma-boost}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:71: LaTeX Error: Envir
-onment shuffle undefined in `ximera.cfg'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.71 \ConfigureQuestionEnv{shuffle}{shuffle}
-                                            
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-\c@imagealt=\count194
-\c@choiceId=\count195
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:234: Illegal parameter
- number in definition of \desmos.
-<to be read again> 
-                   c
-l.234 ...not support embedded elements.</iframe>}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:266: LaTeX Error: Envi
-ronment sagesilent undefined in `ximera.cfg'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.266 \renewenvironment{sagesilent}
-                                   {\NoFonts}{\EndNoFonts}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:272: Too many }'s.
-l.272 }
-       
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-05-09-09:20
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/article.4ht
-version 2009-05-21-09:32
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-05-09-09:20
---------------------------------------
---- Note --- for automatic sectioning pagination, use the command line option `
-1', `2', `3', '4', '5', '6', or '7'
---------------------------------------
---------------------------------------
---- Note --- for files named derived from section titles, use the command line 
-option `sec-filename'
---------------------------------------
---------------------------------------
---- Note --- for i-columns index, use the command line option `index=i' (e.g., 
-index=2)
---------------------------------------
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/enumitem.4ht
-version 2009-05-21-09:32
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-
-<.//images/x1.jpg, id=37, 3088.53876pt x 2201.22375pt>
-File: .//images/x1.jpg Graphic file (type jpg)
- <use .//images/x1.jpg>
-Package pdftex.def Info: .//images/x1.jpg used on input line 15.
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (pdftex.def)             Requested size: 308.87196pt x 220.13527pt.
-<<<<<<< HEAD
-
-[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
- <.//images/x1.jpg>] <.//images/main.jpg, id=52, 3755.02875pt x 1902.10625pt>
-=======
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-<<<<<<< HEAD
 
  <./images/x1.jpg>]
-<images/main.jpg, id=26, 3755.02875pt x 1902.10625pt>
+<images/main.jpg, id=52, 3755.02875pt x 1902.10625pt>
 File: images/main.jpg Graphic file (type jpg)
 <use images/main.jpg>
 Package pdftex.def Info: images/main.jpg  used on input line 27.
 (pdftex.def)             Requested size: 262.87888pt x 133.16104pt.
-<images/x2.jpg, id=27, 2472.23625pt x 1780.6525pt>
+<images/x2.jpg, id=53, 2472.23625pt x 1780.6525pt>
 File: images/x2.jpg Graphic file (type jpg)
 <use images/x2.jpg>
 Package pdftex.def Info: images/x2.jpg  used on input line 36.
 (pdftex.def)             Requested size: 222.49167pt x 160.2518pt.
-<images/x3.jpg, id=28, 1974.37625pt x 1414.28375pt>
+<images/x3.jpg, id=54, 1974.37625pt x 1414.28375pt>
 File: images/x3.jpg Graphic file (type jpg)
 <use images/x3.jpg>
 Package pdftex.def Info: images/x3.jpg  used on input line 40.
-=======
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
-
-./stepsXuculus.tex:15: LaTeX Error: File `x1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \includegraphics[scale=.1]{x1}
-                                   
-? 
-<.//images/main.jpg, id=37, 3755.02875pt x 1902.10625pt>
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-File: .//images/main.jpg Graphic file (type jpg)
-
-<use .//images/main.jpg>
-Package pdftex.def Info: .//images/main.jpg used on input line 27.
-(pdftex.def)             Requested size: 262.87888pt x 133.16104pt.
-<<<<<<< HEAD
- <.//images/x2.jpg, id=53, 2472.23625pt x 1780.6525pt>
-=======
-[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
- <.//images/main.jpg>]
-<.//images/x2.jpg, id=53, 2472.23625pt x 1780.6525pt>
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-File: .//images/x2.jpg Graphic file (type jpg)
-
-<use .//images/x2.jpg>
-Package pdftex.def Info: .//images/x2.jpg used on input line 36.
-(pdftex.def)             Requested size: 222.49167pt x 160.2518pt.
- <.//images/x3.jpg, id=54, 1974.37625pt x 1414.28375pt>
-File: .//images/x3.jpg Graphic file (type jpg)
-<<<<<<< HEAD
-=======
-<use .//images/x3.jpg>
-Package pdftex.def Info: .//images/x3.jpg  used on input line 40.
-<<<<<<< HEAD
-(pdftex.def)             Requested size: 177.68619pt x 127.28004pt.
- [2 <.//images/x2.jpg> <.//images/x3.jpg>]
-=======
-=======
-<images/x1.jpg, id=37, 3088.53876pt x 2201.22375pt>
-File: images/x1.jpg Graphic file (type jpg)
-<<<<<<< HEAD
- <use images/x1.jpg>
-Package pdftex.def Info: images/x1.jpg used on input line 13.
-(pdftex.def)             Requested size: 3088.53127pt x 2201.21841pt.
->>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-05-09-09:20
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/url.4ht
-version 2009-05-21-09:32
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-05-09-09:20
---------------------------------------
---- Note --- for URL encoding within href use the command line option `url-enc'
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-
-<use .//images/x3.jpg>
-Package pdftex.def Info: .//images/x3.jpg used on input line 40.
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 (pdftex.def)             Requested size: 177.68619pt x 127.28004pt.
  [2 <./images/main.jpg> <./images/x2.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-=======
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1736,108 +1034,21 @@ Overfull \hbox (97.86938pt too wide) in paragraph at lines 61--61
 rse
  []
 
-<<<<<<< HEAD
 [3 <./images/x3.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
- (./stepsXuculus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
-
-
-Package rerunfilecheck Warning: File `stepsXuculus.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `stepsXuculus.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  A6E9BA3CFE851EC3C7E8C399ADACA58A;626.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
- ) 
-Here is how much of TeX's memory you used:
- 29408 strings out of 492649
- 689403 string characters out of 6129622
- 856381 words of memory out of 5000000
- 32723 multiletter control sequences out of 15000+600000
-=======
-<<<<<<< HEAD
-[3 <.//images/x3.jpg>]
-=======
-<<<<<<< HEAD
-[3]
-=======
-<<<<<<< HEAD
-[3 <.//images/x3.jpg>]
-=======
-<<<<<<< HEAD
-[5 <./images/x3.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
-=======
-[3 <./images/x3.jpg>]
->>>>>>> 789eef28251e4f3b1518172f2ae1cd00e247360f
->>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
  (./stepsXuculus.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `stepsXuculus.out' has not changed.
 (rerunfilecheck)             Checksum: A6E9BA3CFE851EC3C7E8C399ADACA58A;626.
-<<<<<<< HEAD
-=======
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 29431 strings out of 492649
- 689589 string characters out of 6129622
- 856546 words of memory out of 5000000
- 32727 multiletter control sequences out of 15000+600000
-=======
-
-(./stepsXuculus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 65.
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
- ) 
-Here is how much of TeX's memory you used:
- 29200 strings out of 492995
- 683154 string characters out of 6132704
- 848310 words of memory out of 5000000
- 32182 multiletter control sequences out of 15000+600000
- 10980 words of font info for 43 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 69i,8n,98p,740b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on stepsXuculus.pdf (3 pages, 3114636 bytes).
-PDF statistics:
-<<<<<<< HEAD
- 96 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 105 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
-=======
- 29422 strings out of 492649
- 689626 string characters out of 6129622
- 856560 words of memory out of 5000000
+ 29416 strings out of 492649
+ 689492 string characters out of 6129622
+ 856489 words of memory out of 5000000
  32731 multiletter control sequences out of 15000+600000
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
  10980 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,8n,98p,740b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1846,18 +1057,10 @@ PDF statistics:
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on stepsXuculus.pdf (3 pages, 3114092 bytes).
+Output written on stepsXuculus.pdf (3 pages, 3114636 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  24 named destinations out of 1000 (max. 500000)
-<<<<<<< HEAD
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 69i,6n,98p,1225b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
->>>>>>> 269e92cc4ee8fc554cc38f09d54e34847c8b55d2
->>>>>>> 979a5b9dfccef75c3b7cde440293292cb79bd3b9
->>>>>>> 23f4cb826a5e7f2a3458eca90cc092d8a31e6cdb
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
