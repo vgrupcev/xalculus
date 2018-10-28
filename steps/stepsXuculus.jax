@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 \newenvironment {prompt}{}{}
 \newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
 \newcommand {\ungraded }[0]{}
@@ -13,3 +15,4 @@
 \newcommand {\reserved@a }[0]{\AtBeginDocument }
 \newcommand {\reserved@a }[1]{}
 \newcommand {\reserved@a }[2]{}
+>>>>>>> f9505e5bb283e3b63a95afc741c2318557d427e5
