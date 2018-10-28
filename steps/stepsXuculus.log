@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.5.23)  28 OCT 2018 15:01
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 15:07
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  28 OCT 2018 14:54
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 OCT 2018 14:59
+>>>>>>> 1f0b6c95942603a8ef6047c95ccf9a5e8a8e6bdc
+>>>>>>> 789eef28251e4f3b1518172f2ae1cd00e247360f
+>>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1281,6 +1293,7 @@ version 2017-03-30-16:04
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/enumitem.4ht
 version 2009-05-21-09:32
 
+<<<<<<< HEAD
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-05-09-09:20
 )
@@ -1289,6 +1302,38 @@ version 2017-03-30-16:04
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/titlesec.4ht
 version 2014-07-14-17:09
+=======
+<<<<<<< HEAD
+<.//images/x1.jpg, id=37, 3088.53876pt x 2201.22375pt>
+File: .//images/x1.jpg Graphic file (type jpg)
+<use .//images/x1.jpg>
+Package pdftex.def Info: .//images/x1.jpg  used on input line 15.
+(pdftex.def)             Requested size: 308.87196pt x 220.13527pt.
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+ <.//images/x1.jpg>]
+<.//images/main.jpg, id=52, 3755.02875pt x 1902.10625pt>
+File: .//images/main.jpg Graphic file (type jpg)
+<use .//images/main.jpg>
+Package pdftex.def Info: .//images/main.jpg  used on input line 27.
+(pdftex.def)             Requested size: 262.87888pt x 133.16104pt.
+<.//images/x2.jpg, id=53, 2472.23625pt x 1780.6525pt>
+File: .//images/x2.jpg Graphic file (type jpg)
+<use .//images/x2.jpg>
+Package pdftex.def Info: .//images/x2.jpg  used on input line 36.
+(pdftex.def)             Requested size: 222.49167pt x 160.2518pt.
+<.//images/x3.jpg, id=54, 1974.37625pt x 1414.28375pt>
+File: .//images/x3.jpg Graphic file (type jpg)
+<use .//images/x3.jpg>
+Package pdftex.def Info: .//images/x3.jpg  used on input line 40.
+=======
+<images/x1.jpg, id=37, 3088.53876pt x 2201.22375pt>
+File: images/x1.jpg Graphic file (type jpg)
+<<<<<<< HEAD
+ <use images/x1.jpg>
+Package pdftex.def Info: images/x1.jpg used on input line 13.
+(pdftex.def)             Requested size: 3088.53127pt x 2201.21841pt.
+>>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-05-09-09:20
@@ -1324,6 +1369,7 @@ version 2017-03-30-16:04
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/dvips.4ht
 version 2009-05-21-09:32
 
+<<<<<<< HEAD
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-05-09-09:20
 )
@@ -1332,6 +1378,15 @@ version 2017-03-30-16:04
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/pgf.4ht
 version 2009-05-21-09:32
+=======
+Overfull \hbox (0.99947pt too wide) in paragraph at lines 50--51
+=======
+Package pdftex.def Info: images/x3.jpg  used on input line 40.
+>>>>>>> 789eef28251e4f3b1518172f2ae1cd00e247360f
+(pdftex.def)             Requested size: 177.68619pt x 127.28004pt.
+ [2 <.//images/main.jpg> <.//images/x2.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
+>>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-05-09-09:20
@@ -1611,7 +1666,37 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+<<<<<<< HEAD
  [2] [3]
+=======
+
+Overfull \hbox (0.99947pt too wide) in paragraph at lines 56--57
+>>>>>>> 1f0b6c95942603a8ef6047c95ccf9a5e8a8e6bdc
+[]\OT1/cmr/m/n/10 Run in ter-mi-nal xake -k YOUR-GPG-KEY name name-Of-Cours-eRe
+po 
+ []
+
+
+<<<<<<< HEAD
+Overfull \hbox (97.86938pt too wide) in paragraph at lines 55--55
+=======
+Overfull \hbox (97.86938pt too wide) in paragraph at lines 61--61
+>>>>>>> 1f0b6c95942603a8ef6047c95ccf9a5e8a8e6bdc
+|\OT1/cmr/bx/n/14.4 if ev-ery-thing went well: https://ximera.osu.edu/nameOfCou
+rse
+ []
+
+<<<<<<< HEAD
+[3 <.//images/x3.jpg>]
+=======
+<<<<<<< HEAD
+[5 <./images/x3.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+=======
+[3 <./images/x3.jpg>]
+>>>>>>> 789eef28251e4f3b1518172f2ae1cd00e247360f
+>>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
  [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
@@ -1622,11 +1707,38 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 65.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  34568 strings out of 492996
  764570 string characters out of 6132730
  1084291 words of memory out of 5000000
  37366 multiletter control sequences out of 15000+600000
  4142 words of font info for 17 fonts, out of 8000000 for 9000
+=======
+<<<<<<< HEAD
+ 29202 strings out of 492995
+ 683115 string characters out of 6132704
+ 848310 words of memory out of 5000000
+ 32182 multiletter control sequences out of 15000+600000
+ 10980 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,8n,98p,740b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on stepsXuculus.pdf (5 pages, 3115634 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 26 named destinations out of 1000 (max. 500000)
+=======
+ 29422 strings out of 492649
+ 689626 string characters out of 6129622
+ 856560 words of memory out of 5000000
+ 32731 multiletter control sequences out of 15000+600000
+ 10980 words of font info for 43 fonts, out of 8000000 for 9000
+>>>>>>> 7b30b4d16908d02ab874e7615c806507d1d6b9d6
  1141 hyphenation exceptions out of 8191
  69i,6n,98p,1225b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
 
