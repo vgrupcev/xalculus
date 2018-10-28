@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.5.23)  28 OCT 2018 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.5.23)  28 OCT 2018 11:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1616,13 +1616,13 @@ or  <return>  to continue without it.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
  (./xalculusMain.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 20.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 20.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 21.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 21.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
  34496 strings out of 492996
@@ -1633,4 +1633,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,5n,100p,1226b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xalculusMain.dvi (2 pages, 5812 bytes).
+Output written on xalculusMain.dvi (2 pages, 5924 bytes).
