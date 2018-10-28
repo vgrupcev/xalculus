@@ -9,8 +9,10 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ximera,charset=utf-8,-css.a
-.b.c.\input  successiveDifferentiation.tex
-(./successiveDifferentiation.tex
+.b.c.\input  xalculusMain.tex
+(./xalculusMain.tex (/Users/vg/Library/texmf/tex/latex/ximeraLatex/xourse.cls
+Document Class: xourse 2018/10/17 v1.00 Combining Ximera activities into Xourse
+s
 (/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cls
 Document Class: ximera 2018/10/17 v1.00 Simultaneously write print and online i
 nteractive materials
@@ -925,13 +927,13 @@ Package: tex4ht
 \c@hintLevel=\count187
 \c@titlenumber=\count188
 \c@sectiontitlenumber=\count189
-)
+))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 l.21 --- TeX4ht warning --- \usepackage{tex4ht} again? ---
 l.30 --- TeX4ht warning --- if \RequirePackage[tex4ht]{hyperref} or \usepackage
 [tex4ht]{hyperref} was used try instead, repectively, \RequirePackage{hyperref}
  or \usepackage{hyperref} ---
-) (/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
+) (./preamble.tex) (/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2017-05-09-09:21
 --------------------------------------
@@ -944,15 +946,15 @@ version 2017-05-09-09:21
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/tex4ht.sty
 version 2016-07-18-16:08
 
---- needs --- tex4ht successiveDifferentiation ---
+--- needs --- tex4ht xalculusMain ---
 \tmp:cnt=\count190
-\openout15 = `successiveDifferentiation.tmp'.
+\openout15 = `xalculusMain.tmp'.
 
-(./successiveDifferentiation.tmp)
+(./xalculusMain.tmp)
 \tmp:dim=\skip61
- (./successiveDifferentiation.xref)
+ (./xalculusMain.xref)
 \:refout=\write6
-\openout6 = `successiveDifferentiation.xref'.
+\openout6 = `xalculusMain.xref'.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -1038,10 +1040,10 @@ version 2017-03-30-16:04
 --- Note --- for linear crosslinks of pages, use the command line option `next'
 
 --------------------------------------
-\openout15 = `successiveDifferentiation.4ct'.
+\openout15 = `xalculusMain.4ct'.
 
 \:tocout=\write7
-\openout7 = `successiveDifferentiation.4tc'.
+\openout7 = `xalculusMain.4tc'.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -1158,15 +1160,30 @@ version 2017-05-09-09:20
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 ))
+(/Users/vg/Library/texmf/tex/latex/ximeraLatex/xourse.4ht
+\c@ximera@part=\count191
+
+/Users/vg/Library/texmf/tex/latex/ximeraLatex/xourse.4ht:65: Too many }'s.
+l.65 }
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-05-09-09:20
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
 (/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks57
-\MT@count=\count191
+\MT@count=\count192
 LaTeX Info: Redefining \textls on input line 774.
 \MT@outer@kern=\dimen195
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
-\MT@listname@count=\count192
+\MT@listname@count=\count193
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
@@ -1194,7 +1211,7 @@ l.51 \Configure
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-\c@identification=\count193
+\c@identification=\count194
 
 /Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:69: LaTeX Error: Envir
 onment xarmaBoost undefined in `ximera.cfg'.
@@ -1221,8 +1238,8 @@ l.71 \ConfigureQuestionEnv{shuffle}{shuffle}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-\c@imagealt=\count194
-\c@choiceId=\count195
+\c@imagealt=\count195
+\c@choiceId=\count196
 /Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:234: Illegal parameter
  number in definition of \desmos.
 <to be read again> 
@@ -1504,16 +1521,15 @@ version 2017-05-09-09:20
 (/usr/local/texlive/2017/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 ))
-runsystem(sed -i "/@/d" successiveDifferentiation.jax)...executed.
+runsystem(sed -i "/@/d" xalculusMain.jax)...executed.
 
-runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" successiveDifferentiation.jax)...exec
-uted.
+runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" xalculusMain.jax)...executed.
 
 
 l.53 --- TeX4ht warning --- \Configure{verbatiminput}? ---
 \eqtoks=\toks58
-(./successiveDifferentiation.oc) (./successiveDifferentiation.aux)
-\openout1 = `successiveDifferentiation.aux'.
+(./xalculusMain.oc) (./xalculusMain.aux)
+\openout1 = `xalculusMain.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
@@ -1536,7 +1552,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into
 your preamble.
  on input line 158.
 
-\c@lstlisting=\count196
+\c@lstlisting=\count197
 \AtBeginShipoutBox=\box46
 Package hyperref Info: Link coloring ON on input line 158.
 LaTeX Info: Redefining \ref on input line 158.
@@ -1554,8 +1570,17 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-
-LaTeX Warning: No \author given.
+/Users/vg/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:159: Undefined control
+ sequence.
+\a:@HEAD ...ame="og:image" content="}\xourse@logo 
+                                                  \HCode {" />\Hnewline }\HC...
+l.159 \EndPreamble
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
@@ -1563,76 +1588,49 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 )
 
-./successiveDifferentiation.tex:5: LaTeX Error: Environment abstract undefined.
-
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \begin{abstract}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./successiveDifferentiation.tex:6: LaTeX Error: \begin{document} ended by \end{
-abstract}.
+./xalculusMain.tex:11: LaTeX Error: Environment abstract undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \end{abstract}
-                  
+l.11 \begin{abstract}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Missing character: There is no × in font cmtt10!
- [1
+./xalculusMain.tex:13: LaTeX Error: \begin{document} ended by \end{abstract}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \end{abstract}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
 
 ]
-Missing character: There is no × in font cmtt10!
-Missing character: There is no × in font cmtt10!
-Missing character: There is no × in font cmtt10!
-
-[2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
- (./successiveDifferentiation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 158.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 158.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 103 ({)
-### bottom level 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
+ (./xalculusMain.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 20.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 20.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
+ ) 
 Here is how much of TeX's memory you used:
- 34541 strings out of 492996
- 764957 string characters out of 6132730
- 1086268 words of memory out of 5000000
- 37330 multiletter control sequences out of 15000+600000
- 6187 words of font info for 26 fonts, out of 8000000 for 9000
+ 34496 strings out of 492996
+ 763930 string characters out of 6132730
+ 1083218 words of memory out of 5000000
+ 37298 multiletter control sequences out of 15000+600000
+ 3834 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,98p,1254b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,5n,100p,1226b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on successiveDifferentiation.dvi (4 pages, 17328 bytes).
+Output written on xalculusMain.dvi (2 pages, 5812 bytes).
